@@ -1,6 +1,6 @@
 module github.com/shoplineapp/open-telemetry-adapters/pulsar
 
-go 1.23
+go 1.24
 
 require (
 	github.com/apache/pulsar-client-go v0.13.0-sl.26.3
